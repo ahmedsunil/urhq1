@@ -1,0 +1,7 @@
+{
+  "name": "URHQ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
